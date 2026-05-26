@@ -8,3 +8,7 @@ project*.tgz
 Jack_405.Rcheck/
 Jack_405*.tar.gz
 Jack_405*.tgz
+inst/doc
+/doc/
+/Meta/
+docs

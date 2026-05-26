@@ -1,11 +1,15 @@
-Package: Jack_405
-Title: What the Package Does (One Line, Title Case)
+Package: Jack405
+Title: Statistical Assistance for Warhammer 40k tournaments
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+    person("Jack", "Hogan", , "JackCHogan1009@gmail.com", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 8.0.0
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

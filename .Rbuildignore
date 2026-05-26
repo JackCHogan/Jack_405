@@ -6,3 +6,8 @@
 ^Jack_405\.Rcheck$
 ^Jack_405.*\.tar\.gz$
 ^Jack_405.*\.tgz$
+^doc$
+^Meta$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
